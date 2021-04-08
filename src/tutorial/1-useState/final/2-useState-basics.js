@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 // starts with use
 // component must be uppercase
 // invoke inside function/component body
-// don't call hooks conditonally
+// don't call hooks inside conditonal
 
 const UseStateBasics = () => {
   // console.log(useState());
